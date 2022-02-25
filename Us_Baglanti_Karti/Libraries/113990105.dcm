@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 113990105
+D NodeMCU DEVKIT V1.0
+K
+F https://www.seeedstudio.com/NodeMCU-v2-Lua-based-ESP8266-development-kit.html
+$ENDCMP
+#
+#End Doc Library
